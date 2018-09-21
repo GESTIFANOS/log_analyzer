@@ -1,3 +1,2 @@
-Run sample log 
-	./manager.py tests/sample.log 
-	# log_analyzer
+# Run sample log under python env <br>
+	`python manager.py tests/sample.log`
