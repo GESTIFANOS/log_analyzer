@@ -1,0 +1,11 @@
+/**/*.pyc
+/**/*~
+*~
+*.pyc
+.idea/
+gitignore~
+.pydevproject
+.project
+_env
+.settings/
+_env
